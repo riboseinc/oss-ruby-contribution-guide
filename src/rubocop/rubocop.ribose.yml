@@ -5,7 +5,7 @@ AllCops:
   - "tmp/**/*"
   DisplayCopNames: false
   StyleGuideCopsOnly: false
-  TargetRubyVersion: 2.4
+  TargetRubyVersion: 2.5
 # These checks are irrelevant for most of our projects as they do not use Rails.
 # They should be re-enabled on project level if applicable.
 Rails:
